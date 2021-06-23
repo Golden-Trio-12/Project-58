@@ -1,0 +1,9 @@
+body{
+  text-align: center;
+  background-color:#F8BBD0;
+}
+
+h1{
+  font-size: 60px;
+  text-shadow: 2px, 2px #F8BBD0;
+}
